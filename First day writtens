@@ -1,0 +1,23 @@
+1 . Difference between Http1.1 and http2 :
+      Multiplexing: HTTP1.1 loads resources one after the other, so if one resource cannot be
+loaded, it blocks all the other resources behind it.                                                                          In
+contrast, HTTP2 is able to use a single TCP connection to send multiple streams of data at
+once so that no one resource blocks any other resource.
+2.write about of objects  and internal representation in javascript :
+        
+        Objects are important data types in javascript. Objects are different than
+primitive datatypes (i.e. number, string, boolean, etc.). Primitive data types
+contain one value but Objects can hold many values in form of Key: value
+pair.
+3.codekata practice :
+      
+   Code Kata is an attempt to bring this element of practice to software development. A kata is
+an exercise in karate where you repeat a form many, many times, making little improvements in
+each. The intent behind code kata is similar.  Some involve programming, and can be coded in
+many different ways. Some are open ended, and involve thinking about the issues behind
+programming.
+4.about the IP address, port, HTTPmethods and mac address :
+        Both MAC and IP addresses are operated on different layers of the internet protocol suite.
+The MAC address works on layer 2 and helps identify the devices within the same broadcast
+network (such as the router). On the other hand, the IP addresses are used on layer 3 and help
+identify the devices on different networks.
